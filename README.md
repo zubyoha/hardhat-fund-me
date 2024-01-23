@@ -1,16 +1,9 @@
 
-<br />
-<div align="center">
-  <a href="https://github.com/zubyoha/hardhat-fund-me">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">Hardhat Fund Me</h3>
+# Hardhat Fund Me
 
   <p align="center">
-   This project is a simple hardhat fund me smart contract. It allows people to fund a project by sending ETH to a contract address.
+   This project is a simple Hardhat Fund Me smart contract. It allows people to fund a project by sending ETH to a contract address.
   </p>
-</div>
 
 
 
