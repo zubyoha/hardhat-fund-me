@@ -14,7 +14,7 @@ require("@nomiclabs/hardhat-ethers")
 const COINMARKETCAP_API_KEY = process.env.COINMARKETCAP_API_KEY || ""
 const SEPOLIA_RPC_URL =
     process.env.SEPOLIA_RPC_URL ||
-    "https://eth-sepolia.g.alchemy.com/v2/jo9QfQYSwyYAnxhPeygFVU3f0aZlW-SS"
+    "https://eth-sepolia.g.alchemy.com/v2/YOUR-API-KEY"
 const PRIVATE_KEY =
     process.env.PRIVATE_KEY || "" 
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
