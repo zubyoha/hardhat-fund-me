@@ -16,8 +16,7 @@ const SEPOLIA_RPC_URL =
     process.env.SEPOLIA_RPC_URL ||
     "https://eth-sepolia.g.alchemy.com/v2/jo9QfQYSwyYAnxhPeygFVU3f0aZlW-SS"
 const PRIVATE_KEY =
-    process.env.PRIVATE_KEY ||
-    "0x13475080c52728f0172da9cff98080349aa4a023f90db4db8209d07d2d25585b"
+    process.env.PRIVATE_KEY || "" 
 const ETHERSCAN_API_KEY = process.env.ETHERSCAN_API_KEY || ""
 
 module.exports = {
