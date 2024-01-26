@@ -65,7 +65,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@zubyoha](https://twitter.com/zubyoha) 
+Twitter - [zubyoha](https://twitter.com/zubyoha) 
 
 Project Link: [https://github.com/zubyoha/hardhat-fund-me](https://github.com/zubyoha/hardhat-fund-me)
 
