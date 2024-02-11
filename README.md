@@ -28,10 +28,6 @@ cd hardhat-fund-me
 yarn
 ```
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
@@ -41,7 +37,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 Project Link: [https://github.com/zubyoha/hardhat-fund-me](https://github.com/zubyoha/hardhat-fund-me)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
